@@ -1,2 +1,3 @@
 # plebnet.fun
-Plebnet.fun website
+Signet based bitcoin / lnd package which will allow plebs to learn and use lightning network without having to take any financial risks.
+Coming soon....
